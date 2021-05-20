@@ -1,4 +1,4 @@
-#Things to learn
+# Things to learn
 
 **Steganography** is a process of hiding a file, an image, a video, a text inside another file.
 
